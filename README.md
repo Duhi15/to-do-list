@@ -1,2 +1,1 @@
-# to-do-list
-todo-beginner-master
+# todo-beginner
